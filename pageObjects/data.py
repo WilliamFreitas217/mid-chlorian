@@ -1,4 +1,4 @@
 class User(object):
-    username = "newuser618"
-    email = "   "
+    username = "Ricardo Millos"
+    email = "newuser617@testnew.te"
     password = "123456789"
